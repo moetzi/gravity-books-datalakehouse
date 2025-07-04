@@ -1,4 +1,4 @@
-# Proyek Akhir Data Lakehouse: Gravity Books📖
+# Final Project Data Lakehouse: Gravity Books📖
 
 Proyek ini merupakan implementasi dan perbandingan dua arsitektur data analitik: Data Warehouse tradisional dan Data Lakehouse modern, menggunakan studi kasus data penjualan dari toko buku online "Gravity Books".
 
