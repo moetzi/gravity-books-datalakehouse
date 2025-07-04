@@ -79,7 +79,7 @@ python3.10 etl_script_dwh/etl_dwh.py
 ```
 
 Menjalankan Pipeline Data Lakehouse:
-> Pastikan server MinIO Anda berjalan dan bucket sudah dibuat
+> Pastikan server MinIO Anda berjalan dan bucket sudah dibuat serta jangan lupa ganti placeholder username dan password MinIO pada skrip python sesuai dengan kredensial Anda.
 
 ```bash
 python3.10 etl_script_dlh/etl_lakehouse.py
